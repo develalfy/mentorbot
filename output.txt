@@ -1,0 +1,58 @@
+2017-11-20 19:31:23
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1812139168805198
+                    [time] => 1511206282944
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1600440926689165
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 1812139168805198
+                                        )
+
+                                    [timestamp] => 1511206282314
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAYq1LLwgClmDC8sSlf2unfYAwoO
+                                            [seq] => 671377
+                                            [sticker_id] => 369239263222822
+                                            [attachments] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => image
+                                                            [payload] => Array
+                                                                (
+                                                                    [url] => https://scontent.xx.fbcdn.net/v/t39.1997-6/851557_369239266556155_759568595_n.png?_nc_ad=z-m&_nc_cid=0&oh=9058fb52f628d0a6ab92f85ea310db0a&oe=5A9DAADC
+                                                                    [sticker_id] => 369239263222822
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+
